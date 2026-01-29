@@ -1,6 +1,6 @@
 # The Theory of Super Dimensions
 
-## A theory about the intersection of physics, astronomy, and statistics.
+### A theory about the intersection of physics, astronomy, and statistics.
 
 ## By Daniel Son
 
