@@ -41,8 +41,3 @@ A Phasmic Object.
 Written on Aug 27, 2025 on my ride to my 11 am haircut.
 
 Edit: this can apply to the 5th, 6th, …, Xth dimensions
-
-Other notes:
-
-Calculus is time
-Linear algebra is space
