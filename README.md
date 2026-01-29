@@ -1,8 +1,8 @@
 # The Theory of Super Dimensions
 
-### A theory about the intersection of physics, astronomy, and statistics.
+## A theory about the intersection of physics, astronomy, and statistics.
 
-### By Daniel Son
+## By Daniel Son
 
 If the fourth dimension exists, we would see objects phase in and out of existence.
 
