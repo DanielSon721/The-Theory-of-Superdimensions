@@ -32,9 +32,7 @@ So here’s my hypothesis:
 
 If we observe every corner of the 3-dimensional universe for an infinite amount of time, we will eventually see an object phase in and out of existence — a 4D object passing through our 3rd dimension.
 
-A Phasmic Object.
-
-———————————————————————-
+# A Phasmic Object.
 
 Written on Aug 27, 2025 on my ride to my 11 am haircut.
 
